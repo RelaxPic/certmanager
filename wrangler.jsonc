@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "certmanager",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ed6e9f45-c946-4774-8b84-215a3325ba08",
+      "database_name": "certmanager"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
